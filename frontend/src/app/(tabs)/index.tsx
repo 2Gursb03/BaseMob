@@ -8,7 +8,7 @@ import KiaLogo from '@/assets/images/kia.svg';
 import LotteLogo from '@/assets/images/lotte.svg';
 import SamsungLogo from '@/assets/images/samsung.svg';
 import NCLogo from '@/assets/images/nc.svg';
-import HanhwaLogo from '@/assets/images/hanhwa.svg';
+import HanhwaLogo from '@/assets/images/hanwha.svg';
 import KTLogo from '@/assets/images/kt.svg';
 import KiwoomLogo from '@/assets/images/kiwoom.svg';
 
